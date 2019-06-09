@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="16dp" >
+
+    <TextView
+        android:id="@+id/caption_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:typeface="sans"
+        android:text="@string/place_holder_string"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/result_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/place_holder_string"/>
+
+        <Button
+            android:id="@+id/digits_search_btn"
+            android:text="@string/digits_search_btn"
+            android:onClick="onDigitsSearch"
+            style="@style/ButtonStyle"/>
+
+        <Button
+            android:id="@+id/forecast_search_btn"
+            android:text="@string/forecast_search_btn"
+            android:onClick="onForecastSearch"
+            style="@style/ButtonStyle"/>
+
+        <Button
+            android:id="@+id/phones_search_btn"
+            android:text="@string/phones_search_btn"
+            android:onClick="onPhonesSearch"
+            style="@style/ButtonStyle" />
+
+        <Button
+            android:id="@+id/custom_search_btn"
+            android:text="@string/custom_search_btn"
+            android:onClick="onCustomSearch"
+            style="@style/ButtonStyle"/>
+    </LinearLayout>
+</LinearLayout>

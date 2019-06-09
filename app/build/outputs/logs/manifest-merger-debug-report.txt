@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [:pocketsphinx-android-5prealpha-release] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/pocketsphinx-android-5prealpha-release.aar/ccc9b6390dcc0b8459380c5e68d9804e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/18e3ee0990f031afd40884b9ed05c142/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9806f9ed8931d629c562ddbc7e2e5fb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b367e8a0fc60258e16bda880b3289ca/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/888c6667ca3ea66b32f368ba4b45f5d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/537dcc40ee66948c532ea846e33add2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/55159af49cc65210d5d0801c263c1e0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/23c19194ba54341cec588a003279303f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bb0edf31c5abc5a61c9ab38f045ca896/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8230a52a23656b92c164ec7fffda03dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/65aabbd429291f5d657e462edaa2e925/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ea1d488ab8f9da2ca1e75d93e592592d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/1066e3edff1b8f3126f335e1c1ea6538/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ac9753a6cdcb614408fbd45ca87cfd2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7aa4990ca2160bb61b8b39e9ddaab447/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/aafb5dacd6926297c218c08abdffd0c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7fd15ac7cb7a6ae7f8be7adb6af99d36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0c9db2a1ef9d995e162314c34e1d184b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/60ff258525e37f9b751b0ffc2e1f1ea2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6e168beba0985d1083641538ddc8f304/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cf1e54e20f38ae1762bece9bd8607208/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84a18553f2fc1b76ddb5f61a92ed519d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/feac70579333c64aed9722c04ecd710d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/839858593d6f19d83799f9bde1b03bc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/aad00550218254b9979017d5e6bad0e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c17ed9c7226742ad4c4deb598b544ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c67e28f7fc714a9ae3b5e103d81daa16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9a462053f8f52efd01d7221dc9c2061e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/205d84b877deebe5b51fb46aedb40844/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/34d40bab9efe9a5828ef415a2f5b32c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5f1ad11e37f9f8e9ba3a475f89b0260f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5be091589f4976dc1378f0625644f187/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/86938e10d054047731175abf6c552c02/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/095b33fc3aee19c73f4444966f3ef9bd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:6:22-68
+application
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:8:5-39:19
+MERGED from [com.android.support:design:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/18e3ee0990f031afd40884b9ed05c142/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/18e3ee0990f031afd40884b9ed05c142/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b367e8a0fc60258e16bda880b3289ca/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b367e8a0fc60258e16bda880b3289ca/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84a18553f2fc1b76ddb5f61a92ed519d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84a18553f2fc1b76ddb5f61a92ed519d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/feac70579333c64aed9722c04ecd710d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/feac70579333c64aed9722c04ecd710d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84a18553f2fc1b76ddb5f61a92ed519d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:14:9-40
+activity#ee.bilal.dev.speechrecorder.activity.HomeActivity
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:theme
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:15:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:20:27-74
+activity#ee.bilal.dev.speechrecorder.activity.GoogleRecorderActivity
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:23:19-66
+activity#ee.bilal.dev.speechrecorder.activity.SphinxRecorderActivity
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:24:9-28:20
+	android:label
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:26:13-67
+	android:name
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:25:13-60
+activity#ee.bilal.dev.speechrecorder.activity.SettingsActivity
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:29:9-31:63
+	android:label
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:31:13-60
+	android:name
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:30:13-54
+activity#ee.bilal.dev.speechrecorder.MainActivity
+ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:32:9-38:20
+	android:name
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml:32:19-47
+uses-sdk
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+MERGED from [:pocketsphinx-android-5prealpha-release] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/pocketsphinx-android-5prealpha-release.aar/ccc9b6390dcc0b8459380c5e68d9804e/AndroidManifest.xml:7:5-9:41
+MERGED from [:pocketsphinx-android-5prealpha-release] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/pocketsphinx-android-5prealpha-release.aar/ccc9b6390dcc0b8459380c5e68d9804e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/18e3ee0990f031afd40884b9ed05c142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/18e3ee0990f031afd40884b9ed05c142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9806f9ed8931d629c562ddbc7e2e5fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9806f9ed8931d629c562ddbc7e2e5fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b367e8a0fc60258e16bda880b3289ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4b367e8a0fc60258e16bda880b3289ca/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/888c6667ca3ea66b32f368ba4b45f5d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/888c6667ca3ea66b32f368ba4b45f5d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/537dcc40ee66948c532ea846e33add2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/537dcc40ee66948c532ea846e33add2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/55159af49cc65210d5d0801c263c1e0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/55159af49cc65210d5d0801c263c1e0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/23c19194ba54341cec588a003279303f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/23c19194ba54341cec588a003279303f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bb0edf31c5abc5a61c9ab38f045ca896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bb0edf31c5abc5a61c9ab38f045ca896/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8230a52a23656b92c164ec7fffda03dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8230a52a23656b92c164ec7fffda03dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/65aabbd429291f5d657e462edaa2e925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/65aabbd429291f5d657e462edaa2e925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ea1d488ab8f9da2ca1e75d93e592592d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ea1d488ab8f9da2ca1e75d93e592592d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/1066e3edff1b8f3126f335e1c1ea6538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/1066e3edff1b8f3126f335e1c1ea6538/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ac9753a6cdcb614408fbd45ca87cfd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ac9753a6cdcb614408fbd45ca87cfd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7aa4990ca2160bb61b8b39e9ddaab447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7aa4990ca2160bb61b8b39e9ddaab447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/aafb5dacd6926297c218c08abdffd0c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/aafb5dacd6926297c218c08abdffd0c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7fd15ac7cb7a6ae7f8be7adb6af99d36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7fd15ac7cb7a6ae7f8be7adb6af99d36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0c9db2a1ef9d995e162314c34e1d184b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0c9db2a1ef9d995e162314c34e1d184b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/60ff258525e37f9b751b0ffc2e1f1ea2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/60ff258525e37f9b751b0ffc2e1f1ea2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6e168beba0985d1083641538ddc8f304/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6e168beba0985d1083641538ddc8f304/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cf1e54e20f38ae1762bece9bd8607208/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cf1e54e20f38ae1762bece9bd8607208/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84a18553f2fc1b76ddb5f61a92ed519d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/84a18553f2fc1b76ddb5f61a92ed519d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/feac70579333c64aed9722c04ecd710d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/feac70579333c64aed9722c04ecd710d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/839858593d6f19d83799f9bde1b03bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/839858593d6f19d83799f9bde1b03bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/aad00550218254b9979017d5e6bad0e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/aad00550218254b9979017d5e6bad0e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c17ed9c7226742ad4c4deb598b544ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6c17ed9c7226742ad4c4deb598b544ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c67e28f7fc714a9ae3b5e103d81daa16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c67e28f7fc714a9ae3b5e103d81daa16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9a462053f8f52efd01d7221dc9c2061e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/9a462053f8f52efd01d7221dc9c2061e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/205d84b877deebe5b51fb46aedb40844/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/205d84b877deebe5b51fb46aedb40844/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/34d40bab9efe9a5828ef415a2f5b32c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/34d40bab9efe9a5828ef415a2f5b32c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5f1ad11e37f9f8e9ba3a475f89b0260f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5f1ad11e37f9f8e9ba3a475f89b0260f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5be091589f4976dc1378f0625644f187/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5be091589f4976dc1378f0625644f187/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/86938e10d054047731175abf6c552c02/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/86938e10d054047731175abf6c552c02/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/095b33fc3aee19c73f4444966f3ef9bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/095b33fc3aee19c73f4444966f3ef9bd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+		ADDED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/src/main/AndroidManifest.xml
