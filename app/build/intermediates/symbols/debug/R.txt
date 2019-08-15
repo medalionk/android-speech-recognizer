@@ -1434,8 +1434,8 @@ int string fab_transformation_sheet_behavior 0x7f0f0034
 int string failed_recognizer_init 0x7f0f0035
 int string forecast_caption 0x7f0f0036
 int string forecast_search_btn 0x7f0f0037
-int string google_recorder_btn 0x7f0f0038
-int string google_recorder_title 0x7f0f0039
+int string google_recognition_title 0x7f0f0038
+int string google_recorder_btn 0x7f0f0039
 int string hide_bottom_view_on_scroll_behavior 0x7f0f003a
 int string idle_msg 0x7f0f003b
 int string kws_caption 0x7f0f003c
@@ -1469,8 +1469,8 @@ int string pref_title_vibrate 0x7f0f0057
 int string preparing_recognizer 0x7f0f0058
 int string running_msg 0x7f0f0059
 int string search_menu_title 0x7f0f005a
-int string sphinx_recorder_btn 0x7f0f005b
-int string sphinx_recorder_title 0x7f0f005c
+int string sphinx_recognition_title 0x7f0f005b
+int string sphinx_recorder_btn 0x7f0f005c
 int string start_switch 0x7f0f005d
 int string status_bar_notification_info_overflow 0x7f0f005e
 int string stop_switch 0x7f0f005f

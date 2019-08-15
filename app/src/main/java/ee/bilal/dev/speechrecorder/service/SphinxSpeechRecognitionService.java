@@ -131,8 +131,17 @@ public class SphinxSpeechRecognitionService implements SpeechRecognitionService,
         Log.d("Stop", "Sphinx service canceled and shutdown");
     }
 
-    @Override
-    public void updateSpeechModel(String name) throws IOException {
+    public void setSpeechModel(String name) {
+        Log.d("UpdateSpeechModel", "Set speech model to: " + name);
+
+        speechModel = SphinxSpeechModel.getByName(name);
+        if(speechModel == null){
+            Log.e("UpdateSpeechModel", "Invalid Speech model name: " + name);
+        }
+    }
+
+    //@Override
+   /* public void updateSpeechModel(String name) {
         speechModel = SphinxSpeechModel.getByName(name);
         if(speechModel == null){
             Log.e("UpdateSpeechModel", "Invalid Speech model name: " + name);
@@ -143,35 +152,40 @@ public class SphinxSpeechRecognitionService implements SpeechRecognitionService,
         startListener();
 
         Log.d("UpdateSpeechModel", "Speech model updated to name: " + name);
+    }*/
+
+    @Override
+    public void start() {
+        Log.d("Start", "Start recognition with speech model: " + speechModel);
+
+        startListener();;
     }
 
     @Override
-    public void start(String initialModel) throws IOException {
-        Log.d("Start", "Start recognition with initial model: " + initialModel);
-
-        updateSpeechModel(initialModel);
-    }
-
-    @Override
-    public void restartListener() throws IOException {
+    public void restartListener() {
         startListener();
     }
 
-    private void startListener() throws IOException{
-        Log.d("StartListener", "Start listening ");
+    private void startListener() {
+        Log.d("StartListener", "Start listening");
 
-        if (isStopped()) {
-            setupRecognizer(assetDir);
+        try {
+            if (isStopped()) {
+                setupRecognizer(assetDir);
+            }
+
+            recognizer.stop();
+            recognizer.startListening(speechModel.getName(), LISTENING_TIMEOUT);
+
+            state = State.RUNNING;
+
+            for (SpeechListener listener : listeners.values()) {
+                listener.onStarted();;
+            }
+        } catch (IOException ex) {
+            Log.d("StartListener", "Error starting speech recognition");
         }
 
-        recognizer.stop();
-        recognizer.startListening(speechModel.getName(), LISTENING_TIMEOUT);
-
-        state = State.RUNNING;
-
-        for (SpeechListener listener : listeners.values()) {
-            listener.onStarted();;
-        }
     }
 
     private boolean isStopped() {

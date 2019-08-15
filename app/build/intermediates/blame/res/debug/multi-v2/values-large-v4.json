@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "outputFile": "/home/bilal/Desktop/thesis/new/code/SpeechRecorder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/18e3ee0990f031afd40884b9ed05c142/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/bilal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b38b61df7332c78fecc8e8b67d6a0216/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9806f9ed8931d629c562ddbc7e2e5fb8/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/bilal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ad3bcfa47ecf042deb775ec56c38feb1/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

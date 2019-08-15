@@ -1435,8 +1435,8 @@ string fab_transformation_sheet_behavior
 string failed_recognizer_init
 string forecast_caption
 string forecast_search_btn
+string google_recognition_title
 string google_recorder_btn
-string google_recorder_title
 string hide_bottom_view_on_scroll_behavior
 string idle_msg
 string kws_caption
@@ -1470,8 +1470,8 @@ string pref_title_vibrate
 string preparing_recognizer
 string running_msg
 string search_menu_title
+string sphinx_recognition_title
 string sphinx_recorder_btn
-string sphinx_recorder_title
 string start_switch
 string status_bar_notification_info_overflow
 string stop_switch

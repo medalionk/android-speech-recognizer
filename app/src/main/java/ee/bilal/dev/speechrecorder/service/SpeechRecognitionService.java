@@ -1,7 +1,5 @@
 package ee.bilal.dev.speechrecorder.service;
 
-import java.io.IOException;
-
 public interface SpeechRecognitionService {
 
     void addListener(SpeechListener.Type type, SpeechListener listener);
@@ -10,11 +8,11 @@ public interface SpeechRecognitionService {
 
     void stop();
 
-    void updateSpeechModel(String model) throws IOException;
+    //void updateSpeechModel(String model);
 
-    void start(String initialModel) throws IOException;
+    void start();
 
-    void restartListener() throws IOException;
+    void restartListener();
 
     enum State {
         IDLE,

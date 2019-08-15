@@ -40,6 +40,7 @@ public class ViewSpeechListener implements SpeechListener {
     public void onResult(String text) {
         activity.setResultText(StringUtils.EMPTY);
         activity.makeToast(text);
+        //service.restartListener();
     }
 
     @Override
@@ -49,11 +50,7 @@ public class ViewSpeechListener implements SpeechListener {
 
     @Override
     public void onSpeechEnd() {
-        try {
-            service.restartListener();
-        } catch (IOException ex) {
-            Log.e("OnSpeechEnd", "Error restarting recognition service: " + ex.getMessage());
-        }
+        service.restartListener();
 
     }
 
@@ -62,14 +59,11 @@ public class ViewSpeechListener implements SpeechListener {
         activity.setCaptionText(message);
 
         service.stop();
+        //service.start();
     }
 
     @Override
     public void onTimeout() {
-        try {
-            service.restartListener();
-        } catch (IOException ex) {
-            Log.e("OnTimeout", "Error restarting recognition service: " + ex.getMessage());
-        }
+        service.restartListener();
     }
 }

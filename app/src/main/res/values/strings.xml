@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Speech Recognition</string>
-    <string name="google_recorder_title">Google Recognition</string>
-    <string name="sphinx_recorder_title">Sphinx Recognition</string>
+    <string name="google_recognition_title">Google Recognition</string>
+    <string name="sphinx_recognition_title">Sphinx Recognition</string>
     <string name="place_holder_string">Hello World</string>
 
     <string name="kws_caption">To start demonstration say \"hello\".</string>

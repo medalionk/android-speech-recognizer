@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abdullahbilal/Documents/migration/ut_laptop/ut/thesis/new/code/SpeechRecorder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/home/bilal/Desktop/thesis/new/code/SpeechRecorder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/18e3ee0990f031afd40884b9ed05c142/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "source": "/home/bilal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ad3bcfa47ecf042deb775ec56c38feb1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/home/bilal/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b38b61df7332c78fecc8e8b67d6a0216/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -20,16 +30,6 @@
                         "endLines": "10,11,12,13,14,15,17,18,19,23",
                         "endColumns": "59,69,70,71,57,57,10,63,62,10",
                         "endOffsets": "666,736,807,879,937,995,1104,1168,1231,1403"
-                    }
-                },
-                {
-                    "source": "/Users/abdullahbilal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/9806f9ed8931d629c562ddbc7e2e5fb8/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
                     }
                 }
             ]
